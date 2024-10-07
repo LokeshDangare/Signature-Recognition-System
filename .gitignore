@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 notebook/Signature_data/
+notebook/model.pt/
+artifacts/
